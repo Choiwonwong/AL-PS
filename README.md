@@ -26,4 +26,4 @@ Unless there is a separate schedule change.
 - Algorithm Study Name: `Algo/{Algorithm}`
 - PS File Name: `PS/{OJ_PName_Algorithm}`
 - If the number of problems to be solved increases, divided by algorithm.
-- `MM-DD-YY` is the only way for Commit message
+- `YY/MM/DD` is the only way for Commit message
