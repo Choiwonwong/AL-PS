@@ -1,15 +1,18 @@
 # 📑Algorithm & Problem Solving Repo📑
 
-> 📅 [Start] 23/11/29 ~
-> 📅 [End] ~ Reviewing '이것이 취업을 위한 코딩 테스트다' three times.
-
-Unless there is a separate schedule change.
-
 # 🎯Goals🎯
 
 - To improve `PS Capabilities`
 - To improve understanding of `Algorithm`
 - To systematically mange `Algorithm & Problems`
+
+
+## Below Rules is related to previous studies.
+
+> 📅 [Start] 23/11/29 ~
+> 📅 [End] ~ Reviewing '이것이 취업을 위한 코딩 테스트다' three times.
+
+Unless there is a separate schedule change.
 
 # 🚥Rules🚥
 
