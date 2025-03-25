@@ -7,6 +7,10 @@
 - To systematically mange `Algorithm & Problems`
 
 
+# How to proceed
+- prefix rules
+    -  {platform abbreviation}_{problem identifiable number} 
+
 ## Below Rules is related to previous studies.
 
 > 📅 [Start] 23/11/29 ~
