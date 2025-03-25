@@ -10,6 +10,8 @@
 # How to proceed
 - prefix rules
     -  {platform abbreviation}_{problem identifiable number} 
+- Create the source file in the Root Repo and write the code.
+- Once solved the problem, move it to the directory for that day.
 
 ## Below Rules is related to previous studies.
 
